@@ -7,4 +7,4 @@
 "grauzone.seriesever" "999" "Won't fix, will be removed in future MP releases."
 "grauzone.moviesever" "999" "Won't fix, will be removed in future MP releases."
 "grauzone.serienstream" "736" "Will be fixed with next release 7.3.6"
-"grauzone.ddl_me" "999" "Website is currently offline."
+"grauzone.serienbz" "999" "Website is currently offline."
