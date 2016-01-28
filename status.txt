@@ -1,6 +1,6 @@
 "fun.auditv" "999" "Not fixed, complete rewrite necessary."
 "sport.laola1" "999" "Not fixed, complete rewrite necessary."
-"mediatheken.srf" "999" "Work in progress"
+"mediatheken.srf" "999" "Will be fixed with next release 7.3.6"
 "sport.ran" "999" "Not fixed"
 "fun.filmon" "999" "Not fixed, complete rewrite necessary."
 "porn.gstreaminxxx" "999" "Website is currently offline."
