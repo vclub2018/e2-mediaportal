@@ -3,6 +3,7 @@
 "mediatheken.srf" "736" "Will be fixed with next release 7.3.6"
 "sport.ran" "999" "Not fixed"
 "fun.filmon" "999" "Not fixed, complete rewrite necessary."
+"porn.beeg" "999" "Work in progress."
 "porn.gstreaminxxx" "999" "Website is currently offline."
 "grauzone.seriesever" "999" "Won't fix, will be removed in future MP releases."
 "grauzone.moviesever" "999" "Won't fix, will be removed in future MP releases."
