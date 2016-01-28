@@ -2,3 +2,4 @@
 http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.3.5_all.ipk
 735
 http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.3.5_all.deb
+https://raw.githubusercontent.com/dhwz/e2-mediaportal/master/status.txt
