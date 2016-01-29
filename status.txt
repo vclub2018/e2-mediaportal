@@ -5,6 +5,7 @@
 "fun.filmon" "9999" "Not fixed, complete rewrite necessary."
 "porn.beeg" "736" "Will be fixed with next release 7.3.6"
 "porn.gstreaminxxx" "8888" "Website is currently offline."
+"porn.playporn" "8888" "Website is currently offline."
 "grauzone.seriesever" "9999" "Won't fix, will be removed in future MP releases."
 "grauzone.moviesever" "9999" "Won't fix, will be removed in future MP releases."
 "grauzone.serienstream" "736" "Will be fixed with next release 7.3.6"
