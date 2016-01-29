@@ -1,4 +1,5 @@
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
+"fun.autobild" "736" "Will be fixed with next release 7.3.6"
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "mediatheken.srf" "736" "Will be fixed with next release 7.3.6"
 "sport.ran" "9999" "Not fixed"
