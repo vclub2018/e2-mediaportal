@@ -2,7 +2,7 @@
 "fun.autobild" "736" "Will be fixed with next release 7.3.6"
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "mediatheken.srf" "736" "Will be fixed with next release 7.3.6"
-"sport.ran" "8888" "Work in progress"
+"sport.ran" "736" "Will be fixed with next release 7.3.6"
 "fun.filmon" "9999" "Not fixed, complete rewrite necessary."
 "porn.beeg" "736" "Will be fixed with next release 7.3.6"
 "porn.gstreaminxxx" "8888" "Website is currently offline."
