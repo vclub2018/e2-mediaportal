@@ -6,7 +6,6 @@
 "grauzone.hdfilme" "736" "Will be fixed with next release 7.3.6"
 "grauzone.serienstream" "736" "Will be fixed with next release 7.3.6"
 "fun.filmon" "736" "Will be fixed with next release 7.3.6"
-"grauzone.szenestreams" "9999" "Not fixed"
 "grauzone.seriesever" "9999" "Won't fix, will be removed in future MP releases."
 "grauzone.moviesever" "9999" "Won't fix, will be removed in future MP releases."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
@@ -14,3 +13,4 @@
 "porn.gstreaminxxx" "8888" "Website is currently offline."
 "porn.playporn" "8888" "Website is currently offline."
 "grauzone.serienbz" "8888" "Website is currently offline."
+"grauzone.szenestreams" "8888" "Website is currently offline."
