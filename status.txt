@@ -3,6 +3,7 @@
 "sport.ran" "736" "Will be fixed with next release 7.3.6"
 "porn.beeg" "736" "Will be fixed with next release 7.3.6"
 "porn.eporner" "736" "Will be fixed with next release 7.3.6"
+"porn.wtfvideofree" "8888" "Work in progress."
 "grauzone.hdfilme" "736" "Will be fixed with next release 7.3.6"
 "grauzone.serienstream" "736" "Will be fixed with next release 7.3.6"
 "fun.filmon" "736" "Will be fixed with next release 7.3.6"
