@@ -11,7 +11,7 @@
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
 "sport.wrestlingnetwork" "9999" "Not fixed"
-""sport.sport1fm"" "9999" "Not fixed"
+"sport.sport1fm" "9999" "Not fixed"
 "grauzone.seriesever" "9999" "Won't fix, will be removed in next MP release."
 "grauzone.moviesever" "9999" "Won't fix, will be removed in next MP release."
 "porn.gstreaminxxx" "8888" "Website is offline, will be removed in next MP release."
