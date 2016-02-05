@@ -7,7 +7,7 @@
 "grauzone.serienstream" "736" "Will be fixed with next release 7.3.6"
 "fun.filmon" "736" "Will be fixed with next release 7.3.6"
 "music.nuna" "736" "Will be fixed with next release 7.3.6"
-"porn.wtfvideofree" "8888" "Work in progress."
+"porn.wtfvideofree" "736" "Will be fixed with next release 7.3.6"
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
 "sport.wrestlingnetwork" "9999" "Not fixed"
