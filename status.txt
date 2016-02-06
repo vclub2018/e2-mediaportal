@@ -11,6 +11,7 @@
 "porn.xxxart" "9999" "Website is currently offline."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
+"fun.wissen" "736" "Will be fixed with next release 7.3.6"
 "sport.wrestlingnetwork" "736" "Will be fixed with next release 7.3.6"
 "sport.sport1fm" "9999" "Not fixed"
 "grauzone.seriesever" "9999" "Won't fix, will be removed with next MP release."
