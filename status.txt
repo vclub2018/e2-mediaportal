@@ -8,6 +8,7 @@
 "fun.filmon" "736" "Will be fixed with next release 7.3.6"
 "music.nuna" "736" "Will be fixed with next release 7.3.6"
 "porn.wtfvideofree" "736" "Will be fixed with next release 7.3.6"
+"porn.xxxart" "9999" "Website is currently offline."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
 "sport.wrestlingnetwork" "9999" "Not fixed"
