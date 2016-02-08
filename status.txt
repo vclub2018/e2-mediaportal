@@ -19,3 +19,4 @@
 "porn.gstreaminxxx" "8888" "Website is offline, will be removed with next MP release."
 "porn.playporn" "8888" "Website is offline, will be removed with next MP release."
 "grauzone.serienbz" "8888" "Website is offline, will be removed with next MP release."
+"grauzone.watchseriesonline" "8888" "Work in progress."
