@@ -20,4 +20,4 @@
 "porn.gstreaminxxx" "8888" "Website is offline, removed with MP release 7.4.0"
 "porn.playporn" "8888" "Website is offline, removed with MP release 7.4.0"
 "grauzone.serienbz" "8888" "Website is offline, removed with MP release 7.4.0"
-"grauzone.watchseriesonline" "8888" "Work in progress."
+"grauzone.watchseriesonline" "740" "Fixed with release 7.4.0"
