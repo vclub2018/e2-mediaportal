@@ -20,4 +20,4 @@
 "porn.playporn" "8888" "Website is offline, will be removed with next MP release."
 "grauzone.serienbz" "8888" "Website is offline, will be removed with next MP release."
 "grauzone.watchseriesonline" "8888" "Work in progress."
-"porn.sexu" "8888" "Work in progress."
+"porn.sexu" "736" "Will be fixed with next release 7.3.6"
