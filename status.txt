@@ -16,7 +16,6 @@
 "grauzone.hdstream" "743" "Fixed with release 7.4.3"
 "sport.sport1fm" "9999" "Not fixed"
 "mediatheken.ard" "9999" "Not fixed"
-"music.songsto" "9999" "Not fixed"
 "porn.xxxart" "9999" "Website is currently offline."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
@@ -25,3 +24,4 @@
 "porn.gstreaminxxx" "8888" "Website is offline, removed with MP release 7.4.0"
 "porn.playporn" "8888" "Website is offline, removed with MP release 7.4.0"
 "grauzone.serienbz" "8888" "Website is offline, removed with MP release 7.4.0"
+"music.songsto" "8888" "Website is offline, removed with MP release 7.4.3"
