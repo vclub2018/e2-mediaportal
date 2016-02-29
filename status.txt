@@ -15,6 +15,7 @@
 "grauzone.hdfilme" "742" "Fixed with release 7.4.2"
 "grauzone.hdstream" "743" "Fixed with release 7.4.3"
 "mediatheken.ard" "743" "Fixed with release 7.4.3"
+"grauzone.searchalluc" "744" "Fixed with release 7.4.4"
 "sport.sport1fm" "9999" "Not fixed"
 "porn.xxxart" "9999" "Website is currently offline."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
