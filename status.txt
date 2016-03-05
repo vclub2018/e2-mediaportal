@@ -17,6 +17,7 @@
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
 "porn.wtfvideofree" "8888" "Work in progress."
 "sport.sport1fm" "9999" "Not fixed"
+"mediatheken.myvideo_v2" "8888" "Not fixed"
 "porn.xxxart" "9999" "Website is currently offline."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
