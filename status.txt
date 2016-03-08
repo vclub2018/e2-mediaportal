@@ -26,4 +26,4 @@
 "porn.playporn" "8888" "Website is offline, removed with MP release 7.4.0"
 "grauzone.serienbz" "8888" "Website is offline, removed with MP release 7.4.0"
 "music.songsto" "8888" "Website is offline, removed with MP release 7.4.3"
-"mediatheken.myvideo_v2" "9999" "Won't fix, removed with MP release 7.4.4"
+"mediatheken.myvideo_v2" "8888" "Won't fix, removed with MP release 7.4.4"
