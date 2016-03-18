@@ -15,6 +15,7 @@
 "mediatheken.ard" "743" "Fixed with release 7.4.3"
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
 "grauzone.serienstream" "744" "Fixed with release 7.4.4"
+"grauzone.movie25" "744" "Fixed with release 7.4.4"
 "porn.wtfvideofree" "744" "Fixed with release 7.4.4"
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
 "sport.sport1fm" "9999" "Not fixed"
