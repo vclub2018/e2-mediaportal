@@ -18,6 +18,7 @@
 "grauzone.movie25" "744" "Fixed with release 7.4.4"
 "grauzone.primewire" "744" "Fixed with release 7.4.4"
 "porn.wtfvideofree" "744" "Fixed with release 7.4.4"
+"porn.pornstreams" "744" "Fixed with release 7.4.4"
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
 "sport.sport1fm" "9999" "Not fixed"
 "porn.xxxart" "9999" "Website is currently offline."
