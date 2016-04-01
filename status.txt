@@ -25,6 +25,7 @@
 "grauzone.movie2k" "746" "Fixed with release 7.4.6"
 "sport.sport1fm" "9999" "Not fixed"
 "grauzone.papystreaming" "9999" "Not fixed"
+"porn.beeg" "9999" "Not fixed"
 "grauzone.animeworld" "9999" "Website is currently offline."
 "grauzone.kinokiste" "9999" "Website is currently offline."
 "porn.xxxart" "9999" "Website is currently offline."
