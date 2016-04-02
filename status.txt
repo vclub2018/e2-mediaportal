@@ -19,7 +19,7 @@
 "porn.wtfvideofree" "744" "Fixed with release 7.4.4"
 "porn.pornstreams" "744" "Fixed with release 7.4.4"
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
-"grauzone.hdfilme" "745" "Fixed with release 7.4.4"
+"grauzone.hdfilme" "746" "Fixed with release 7.4.6"
 "mediatheken.dreisat" "746" "Fixed with release 7.4.6"
 "porn.streamxxx" "746" "Fixed with release 7.4.6"
 "grauzone.movie2k" "746" "Fixed with release 7.4.6"
