@@ -25,6 +25,7 @@
 "porn.faapy" "747" "Fixed with release 7.4.7"
 "grauzone.hdfilme" "747" "Fixed with release 7.4.7"
 "porn.beeg" "748" "Fixed with release 7.4.8
+"mediatheken.southpark" "9999" "Not fixed"
 "sport.sport1fm" "9999" "Not fixed"
 "grauzone.papystreaming" "9999" "Not fixed"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
