@@ -33,6 +33,7 @@
 "fun.gamechannels" "9999" "Not fixed"
 "fun.carchannels" "9999" "Not fixed"
 "fun.hoerspielchannels" "9999" "Not fixed"
+"porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
 "grauzone.animeworld" "8888" "Website is currently offline."
 "grauzone.kinokiste" "8888" "Website is currently offline."
 "porn.xxxart" "8888" "Website is currently offline."
