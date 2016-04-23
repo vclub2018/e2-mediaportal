@@ -26,6 +26,7 @@
 "grauzone.hdfilme" "747" "Fixed with release 7.4.7"
 "porn.beeg" "748" "Fixed with release 7.4.8
 "porn.pornktube" "748" "Fixed with release 7.4.8"
+"porn.tnaflix" "748" "Fixed with release 7.4.8"
 "mediatheken.southpark" "9999" "Not fixed"
 "sport.sport1fm" "9999" "Not fixed"
 "grauzone.papystreaming" "9999" "Not fixed"
