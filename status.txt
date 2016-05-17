@@ -20,7 +20,7 @@
 "mediatheken.dreisat" "746" "Fixed with release 7.4.6"
 "porn.streamxxx" "746" "Fixed with release 7.4.6"
 "grauzone.movie2k" "746" "Fixed with release 7.4.6"
-"grauzone.hdfilme" "747" "Fixed with release 7.4.7"
+"grauzone.hdfilme" "747" "Fixed with release 7.4.8"
 "porn.beeg" "748" "Fixed with release 7.4.8"
 "porn.pornktube" "748" "Fixed with release 7.4.8"
 "porn.tnaflix" "748" "Fixed with release 7.4.8"
