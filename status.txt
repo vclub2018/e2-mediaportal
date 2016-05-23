@@ -31,7 +31,7 @@
 "fun.carchannels" "750" "Fixed with release 7.5.0"
 "fun.hoerspielchannels" "750" "Fixed with release 7.5.0"
 "grauzone.szenestreams" "751" "Fixed with release 7.5.1"
-"grauzone.watchseriesonline" "9999" "Not fixed"
+"grauzone.watchseriesonline" "751" "Fixed with release 7.5.1"
 "porn.faapy" "9999" "Not fixed"
 "mediatheken.southpark" "9999" "Not fixed"
 "sport.sport1fm" "9999" "Not fixed"
