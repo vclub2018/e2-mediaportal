@@ -33,6 +33,7 @@
 "grauzone.primewire" "751" "Fixed with release 7.5.1"
 "porn.streamxxx" "751" "Fixed with release 7.5.1"
 "grauzone.movie25" "751" "Fixed with release 7.5.1"
+"grauzone.onlinefilme" "751" "Fixed with release 7.5.1"
 "music.myfreemp3" "9999" "Not fixed"
 "mediatheken.southpark" "9999" "Not fixed"
 "sport.sport1fm" "9999" "Not fixed"
