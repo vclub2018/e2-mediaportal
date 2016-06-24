@@ -36,6 +36,7 @@
 "grauzone.onlinefilme" "751" "Fixed with release 7.5.1"
 "grauzone.seriesever" "752" "Fixed with release 7.5.2"
 "music.myfreemp3" "752" "Fixed with release 7.5.2"
+"porn.pornhive" "753" "Fixed with release 7.5.3"
 "mediatheken.southpark" "9999" "Not fixed"
 "sport.sport1fm" "9999" "Not fixed"
 "grauzone.papystreaming" "9999" "Not fixed"
