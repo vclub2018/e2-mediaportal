@@ -39,6 +39,7 @@
 "porn.pornhive" "753" "Fixed with release 7.5.3"
 "porn.drtuber" "753" "Fixed with release 7.5.3"
 "grauzone.watchseries" "753" "Fixed with release 7.5.3"
+"grauzone.papystreaming" "9999" "Not fixed"
 "mediatheken.southpark" "9999" "Not fixed"
 "sport.sport1fm" "9999" "Not fixed"
 "grauzone.papystreaming" "9999" "Not fixed"
