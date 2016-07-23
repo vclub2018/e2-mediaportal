@@ -46,6 +46,7 @@
 "grauzone.kinokiste" "9999" "Not fixed"
 "grauzone.hdstream" "8888" "Website is currently offline."
 "porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
+"grauzone.streamit" "8888" "Plugin currently offline due to website DDoS protection."
 "grauzone.animeworld" "8888" "Website is currently offline."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
