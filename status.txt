@@ -44,7 +44,6 @@
 "porn.chaturbate" "756" "Fixed with release 7.5.6"
 "mediatheken.southpark" "756" "Fixed with release 7.5.6"
 "sport.sport1fm" "9999" "Not fixed"
-"grauzone.papystreaming" "9999" "Not fixed"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "grauzone.kinokiste" "9999" "Not fixed"
 "grauzone.hdstream" "8888" "Website is currently offline."
