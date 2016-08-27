@@ -62,3 +62,4 @@
 "fun.doku_cc" "8888" "Website is offline, removed with MP release 7.5.0"
 "fun.galileovl" "8888" "Website is offline, removed with MP release 7.5.4"
 "grauzone.hdstream" "8888" "Website is offline, removed with MP release 7.5.6"
+"grauzone.papystreaming" "8888" "Won't fix, removed with MP release 7.5.6"
