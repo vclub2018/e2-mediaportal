@@ -45,6 +45,7 @@
 "porn.chaturbate" "756" "Fixed with release 7.5.7"
 "grauzone.streamit" "757" "Fixed with release 7.5.7"
 "grauzone.serienstream" "757" "Fixed with release 7.5.7"
+"grauzone.solarmovie" "757" "Fixed with release 7.5.7"
 "sport.sport1fm" "9999" "Not fixed"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "grauzone.kinokiste" "9999" "Not fixed"
