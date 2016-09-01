@@ -10,7 +10,6 @@
 "grauzone.hdstream" "743" "Fixed with release 7.4.3"
 "mediatheken.ard" "743" "Fixed with release 7.4.3"
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
-"grauzone.serienstream" "744" "Fixed with release 7.4.4"
 "porn.wtfvideofree" "744" "Fixed with release 7.4.4"
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
 "mediatheken.dreisat" "746" "Fixed with release 7.4.6"
