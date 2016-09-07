@@ -14,7 +14,6 @@
 "grauzone.searchalluc" "744" "Fixed with release 7.4.4"
 "mediatheken.dreisat" "746" "Fixed with release 7.4.6"
 "grauzone.movie2k" "746" "Fixed with release 7.4.6"
-"grauzone.hdfilme" "750" "Fixed with release 7.5.0"
 "porn.beeg" "750" "Fixed with release 7.5.0"
 "porn.pornktube" "750" "Fixed with release 7.5.0"
 "porn.tnaflix" "750" "Fixed with release 7.5.0"
@@ -62,3 +61,4 @@
 "fun.galileovl" "8888" "Website is offline, removed with MP release 7.5.4"
 "grauzone.hdstream" "8888" "Website is offline, removed with MP release 7.5.6"
 "grauzone.papystreaming" "8888" "Won't fix, removed with MP release 7.5.6"
+"grauzone.hdfilme" "8888" "Won't fix, removed with MP release 7.5.7"
