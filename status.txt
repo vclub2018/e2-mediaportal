@@ -40,7 +40,7 @@
 "grauzone.watchseriesonline" "756" "Fixed with release 7.5.6"
 "fun.gaskrank_tv" "756" "Fixed with release 7.5.6"
 "mediatheken.southpark" "756" "Fixed with release 7.5.6"
-"porn.chaturbate" "756" "Fixed with release 7.5.7"
+"porn.chaturbate" "757" "Fixed with release 7.5.7"
 "grauzone.streamit" "757" "Fixed with release 7.5.7"
 "grauzone.serienstream" "757" "Fixed with release 7.5.7"
 "grauzone.solarmovie" "757" "Fixed with release 7.5.7"
