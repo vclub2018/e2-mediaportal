@@ -44,6 +44,7 @@
 "grauzone.streamit" "757" "Fixed with release 7.5.7"
 "grauzone.serienstream" "757" "Fixed with release 7.5.7"
 "grauzone.solarmovie" "757" "Fixed with release 7.5.7"
+"grauzone.hdfilme" "757" "Fixed with release 7.5.7"
 "sport.sport1fm" "9999" "Not fixed"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "grauzone.kinokiste" "9999" "Not fixed"
@@ -61,4 +62,3 @@
 "fun.galileovl" "8888" "Website is offline, removed with MP release 7.5.4"
 "grauzone.hdstream" "8888" "Website is offline, removed with MP release 7.5.6"
 "grauzone.papystreaming" "8888" "Won't fix, removed with MP release 7.5.6"
-"grauzone.hdfilme" "8888" "Won't fix, removed with MP release 7.5.7"
