@@ -68,3 +68,4 @@
 "sport.nhl" "8888" "Website is offline, removed with MP release 7.6.1"
 "fun.geo_de" "8888" "Website is offline, removed with MP release 7.6.1"
 "porn.pornhive" "8888" "Won't fix, removed with MP release 7.6.1"
+"porn.pornkino" "8888" "Won't fix, removed with MP release 7.6.1"
