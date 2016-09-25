@@ -50,6 +50,7 @@
 "porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
 "grauzone.animeworld" "8888" "Website is currently offline."
 "grauzone.kinokiste" "8888" "Website is currently offline."
+"grauzone.moviestreams" "8888" "Website is currently offline."
 "sport.laola1" "9999" "Not fixed, complete rewrite necessary."
 "fun.auditv" "9999" "Not fixed, complete rewrite necessary."
 "grauzone.moviesever" "8888" "Won't fix, removed with MP release 7.4.0"
