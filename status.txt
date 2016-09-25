@@ -44,6 +44,7 @@
 "porn.top1porn" "761" "Fixed with release 7.6.1"
 "porn.tnaflix" "761" "Fixed with release 7.6.1"
 "porn.pornoxo" "761" "Fixed with release 7.6.1"
+"grauzone.streamit" "763" "Fixed with release 7.6.3"
 "sport.sport1fm" "9999" "Not fixed"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "fun.videogold_de" "9999" "Not fixed"
