@@ -46,6 +46,7 @@
 "fun.twitch" "763" "Fixed with release 7.6.3"
 "grauzone.serienstream" "763" "Fixed with release 7.6.3"
 "grauzone.topimdb" "763" "Fixed with release 7.6.3"
+"porn.xhamster" "764" "Fixed with release 7.6.4"
 "sport.sport1fm" "9999" "Not fixed"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "fun.videogold_de" "9999" "Not fixed"
