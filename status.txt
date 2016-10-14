@@ -6,6 +6,7 @@
 "grauzone.serienstream" "763" "Fixed with release 7.6.3"
 "grauzone.topimdb" "763" "Fixed with release 7.6.3"
 "porn.xhamster" "764" "Fixed with release 7.6.4"
+"grauzone.tata" "766" "Fixed with release 7.6.6"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "fun.videogold_de" "9999" "Not fixed"
 "porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
