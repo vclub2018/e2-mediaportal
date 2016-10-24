@@ -7,6 +7,7 @@
 "grauzone.topimdb" "763" "Fixed with release 7.6.3"
 "porn.xhamster" "764" "Fixed with release 7.6.4"
 "grauzone.tata" "767" "Fixed with release 7.6.7"
+"music.myfreemp3" "767" "Fixed with release 7.6.7"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "fun.videogold_de" "9999" "Not fixed"
 "porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
