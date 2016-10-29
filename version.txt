@@ -1,5 +1,5 @@
-766
-http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.6.6_all.ipk
-766
-http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.6.6_all.deb
+767
+http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.6.7_all.ipk
+767
+http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.6.7_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
