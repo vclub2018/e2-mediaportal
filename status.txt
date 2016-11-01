@@ -12,6 +12,7 @@
 "porn.yourpornsexy" "767" "Fixed with release 7.6.7"
 "mediatheken.orf" "767" "Fixed with release 7.6.7"
 "fun.bild" "767" "Fixed with release 7.6.7"
+"mediatheken.myspass" "768" "Fixed with release 7.6.8"
 "mediatheken.zdf" "9999" "Not yet fixed, this plugin requires a complete rewrite"
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "fun.videogold_de" "9999" "Not fixed"
