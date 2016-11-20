@@ -1,5 +1,5 @@
 768
-http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.6.8_all.ipk
+http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.6.8_all.ipk
 768
 http://downloads.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.6.8_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
