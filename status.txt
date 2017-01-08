@@ -4,5 +4,5 @@
 "fun.funnyvideoclips_de" "9999" "Not fixed"
 "fun.videogold_de" "9999" "Not fixed"
 "porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
-"grauzone.kinokiste" "8888" "Website is currently offline."
+"grauzone.kinokiste" "9999" "Not fixed"
 #THIS FILE IS NOT A CHANGELOG, WE WILL NOT PROVIDE ANY UPDATE INFOS WITH THIS FILE

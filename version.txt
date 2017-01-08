@@ -1,6 +1,6 @@
-772
-http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.7.2_all.ipk
-772
-http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.7.2_all.deb
+773
+http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.7.3_all.ipk
+773
+http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_7.7.3_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
 netcologne;netix
