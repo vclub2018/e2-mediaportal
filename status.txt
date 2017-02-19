@@ -2,5 +2,4 @@
 "mediatheken.n24" "9999" "Not yet fixed, this plugin requires a complete rewrite"
 "grauzone.kinokiste" "9999" "Not fixed"
 "porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
-"mediatheken.zdf" "775" "Fixed with release 7.7.5"
 #THIS FILE IS NOT A CHANGELOG, WE WILL NOT PROVIDE ANY UPDATE INFOS WITH THIS FILE
