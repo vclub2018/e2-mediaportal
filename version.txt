@@ -1,6 +1,6 @@
-801
-http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.0.1_all.ipk
-801
-http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.0.1_all.deb
+802
+http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.0.2_all.ipk
+802
+http://netcologne.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.0.2_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
 netcologne;netix
