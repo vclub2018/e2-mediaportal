@@ -3,4 +3,4 @@ http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extension
 805
 http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.0.5_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
-master;master
+master;netcologne
