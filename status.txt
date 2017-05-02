@@ -1,5 +1,4 @@
 #THIS FILE IS NOT A CHANGELOG, WE WILL NOT PROVIDE ANY UPDATE INFOS WITH THIS FILE
 "mediatheken.n24" "9999" "Not yet fixed, this plugin requires a complete rewrite"
 "porn.pornktube" "9999" "Not yet fixed"
-"porn.mydirtyhobby" "8888" "Plugin currently offline due to website DDoS protection."
 #THIS FILE IS NOT A CHANGELOG, WE WILL NOT PROVIDE ANY UPDATE INFOS WITH THIS FILE
