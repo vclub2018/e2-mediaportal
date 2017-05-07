@@ -1,6 +1,6 @@
-810
-http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.1.0_all.ipk
-810
-http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.1.0_all.deb
+811
+http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.1.1_all.ipk
+811
+http://master.dl.sourceforge.net/project/e2-mediaportal/enigma2-plugin-extensions-mediaportal_8.1.1_all.deb
 http://dhwz.github.io/e2-mediaportal/status.txt
 master;netcologne
